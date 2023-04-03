@@ -88,8 +88,7 @@ THEN I should have proper build scripts for a webpack application
 
   * The URL of the GitHub repository - https://github.com/savitamanchanda/PWA_TextEditor
 
-  ![](./images/Screenshot%202023-03-31%20at%206.02.00%20PM.png)
-  ![](./images/Screenshot%202023-03-31%20at%206.02.37%20PM.png)
-  ![](./images/Screenshot%202023-03-31%20at%206.03.28%20PM.png)
-  ![](./images/screenshot1.png)
-  ![](./images/screenshot2.png)
+  ![](./images/Screenshot%202023-04-03%20at%204.59.33%20PM.png)
+  ![](./images/Screenshot%202023-04-03%20at%205.00.06%20PM.png)
+  ![](./images/Screenshot%202023-04-03%20at%205.00.12%20PM.png)
+  ![](./images/Screenshot%202023-04-03%20at%205.00.51%20PM.png)
